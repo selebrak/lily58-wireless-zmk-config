@@ -3,7 +3,7 @@ on:
     paths-ignore:
       - 'README.md'
       - '.github/**'
-      - 'keymap-visualizations'
+      - 'keymap-visualizations/**'
   workflow_dispatch:
 
 jobs:
